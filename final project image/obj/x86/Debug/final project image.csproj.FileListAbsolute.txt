@@ -1,0 +1,15 @@
+C:\Users\a\Documents\Visual Studio 2010\new proj\final project image\final project image\obj\x86\Debug\final project image.csprojResolveAssemblyReference.cache
+C:\Users\a\Documents\Visual Studio 2010\new proj\final project image\final project image\obj\x86\Debug\final_project_image.Properties.Resources.resources
+C:\Users\a\Documents\Visual Studio 2010\new proj\final project image\final project image\obj\x86\Debug\final project image.csproj.GenerateResource.Cache
+C:\Users\a\Documents\Visual Studio 2010\new proj\final project image\final project image\bin\Debug\final project image.exe
+C:\Users\a\Documents\Visual Studio 2010\new proj\final project image\final project image\bin\Debug\final project image.pdb
+C:\Users\a\Documents\Visual Studio 2010\new proj\final project image\final project image\bin\Debug\openCV.dll
+C:\Users\a\Documents\Visual Studio 2010\new proj\final project image\final project image\obj\x86\Debug\final project image.exe
+C:\Users\a\Documents\Visual Studio 2010\new proj\final project image\final project image\obj\x86\Debug\final project image.pdb
+C:\Users\a\Documents\Visual Studio 2010\new proj\final project image\final project image\obj\x86\Debug\Final_Project.Form1.resources
+E:\Final projects\final project image\final project image\obj\x86\Debug\final project image.exe
+E:\Final projects\final project image\final project image\obj\x86\Debug\final project image.pdb
+E:\Final projects\final project image\final project image\obj\x86\Debug\final project image.csprojResolveAssemblyReference.cache
+E:\Final projects\final project image\final project image\obj\x86\Debug\Final_Project.Form1.resources
+E:\Final projects\final project image\final project image\obj\x86\Debug\final_project_image.Properties.Resources.resources
+E:\Final projects\final project image\final project image\obj\x86\Debug\final project image.csproj.GenerateResource.Cache
